@@ -5,3 +5,6 @@ To make use of the control node, make sure to first install the VRX Simulation E
 Then either create a new working directory or drop the navigation node and model URDF file into the vrx_ws (not tested)
 Follow the instructions from the VRX wiki to launch a simulation using our customised URDF
 Launch the package as you would a normal ROS package
+
+
+If adapting for another model, making use of the matlab code can be helpful to find the gain matrix and adjust Leunberger poles

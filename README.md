@@ -6,5 +6,6 @@ Then either create a new working directory or drop the navigation node and model
 Follow the instructions from the VRX wiki to launch a simulation using our customised URDF
 Launch the package as you would a normal ROS package
 
+All the libraries used in this project can be obtained from PyPI. Simply install the missing packages using pip.
 
-If adapting for another model, making use of the matlab code can be helpful to find the gain matrix and adjust Leunberger poles
+If adapting for another model, making use of the matlab code can be helpful to find the gain matrix and adjust Leunberger poles.

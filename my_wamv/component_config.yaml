@@ -1,0 +1,6 @@
+wamv_gps:
+    - name: gps_wamv
+      x: -0.85
+wamv_imu:
+    - name: imu_wamv
+      y: -0.2
